@@ -1,5 +1,5 @@
 # ACCIO_JOB_CAPSTONE_PROJECT
-# Introduction Video Link : https://drive.google.com/file/d/1hgHfHNaoIQ2kyiMDNs4BWy6UhIWX_7jI/view?usp=drive_link
+
 An interactive Power BI dashboard built using the Northwind dataset to provide insights into sales performance, customer behavior, inventory management, and employee productivity. This report is designed to support data-driven decision-making for stakeholders in the wholesale trading business.
 
 📁 Dataset Overview

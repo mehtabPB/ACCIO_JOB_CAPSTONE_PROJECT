@@ -5,7 +5,7 @@ An interactive Power BI dashboard built using the Northwind dataset to provide i
 📁 Dataset Overview
 The data is based on the fictional Northwind Traders company, which imports and exports specialty foods globally. It includes several relational tables covering customers, orders, products, employees, suppliers, and more.
 
-Tables Used:
+Tables Used:-
 Customers: Customer details and contact info
 
 Employees: Employee profiles and reporting structure
